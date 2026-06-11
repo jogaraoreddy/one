@@ -37,8 +37,8 @@
 	
 	<distributionManagement>
 		<snapshotRepository>
-			<id>nexusRepo</id>
-			<url>http://52.207.233.136:8081/#browse/browse:myrepo</url>
+			<id>nexus-release</id>
+			<url>http://http://100.52.183.222:8081/repository/maven-release</url>
 		</snapshotRepository>
 		<repository>
 			<id>mydevops-feed</id>
