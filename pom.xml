@@ -38,7 +38,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexusRepo</id>
-			<url>http://3.133.161.194:8081/repository/myrepo/</url>
+			<url>http://52.207.233.136:8081/#browse/browse:myrepo</url>
 		</snapshotRepository>
 		<repository>
 			<id>mydevops-feed</id>
